@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Assignment_6\bin\Debug\net7.0\Assignment_6.exe
+C:\Users\promact\Desktop\Assignment_6\bin\Debug\net7.0\Assignment_6.deps.json
+C:\Users\promact\Desktop\Assignment_6\bin\Debug\net7.0\Assignment_6.runtimeconfig.json
+C:\Users\promact\Desktop\Assignment_6\bin\Debug\net7.0\Assignment_6.dll
+C:\Users\promact\Desktop\Assignment_6\bin\Debug\net7.0\Assignment_6.pdb
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\Assignment_6.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\Assignment_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\Assignment_6.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\Assignment_6.AssemblyInfo.cs
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\Assignment_6.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\Assignment_6.dll
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\refint\Assignment_6.dll
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\Assignment_6.pdb
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\Assignment_6.genruntimeconfig.cache
+C:\Users\promact\Desktop\Assignment_6\obj\Debug\net7.0\ref\Assignment_6.dll
